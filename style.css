@@ -6,3 +6,11 @@
     font-size: 44px;
 }
 
+.pro-images{
+    width: 40%;
+    border: 5px solid rgb(223, 158, 106);
+    border-radius: 20px;
+}
+.pro-aner{
+    text-decoration: none;
+}
